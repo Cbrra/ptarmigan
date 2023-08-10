@@ -3,7 +3,7 @@
 Cette politique de confidentialité explique comment Ptarmigan collecte, utilise et protège vos données. En utilisant Ptarmigan, vous acceptez les pratiques décrites dans cette politique.
 
 ## Collecte de Données
-Ptarmigan collecte et enregistre certaines données lorsque vous interagissez avec le bot. Cela peut inclure l'identifiant de votre compte, l'identifiant du serveur, les messages que vous envoyez aux commandes du bot et les paramètres de configuration que vous définissez.
+Ptarmigan collecte et enregistre certaines données lorsque vous interagissez avec le bot. Cela peut inclure les identifiants des utilisateurs, serveurs, salons, rôles, webhooks, les tokens de webhooks, les messages que vous envoyez aux commandes du bot et les paramètres de configuration que vous définissez.
 
 ## Utilisation des Données
 Les données collectées par Ptarmigan sont utilisées dans le but de fournir et d'améliorer les fonctionnalités du bot. Les informations peuvent être utilisées pour personnaliser vos interactions, répondre à vos demandes et analyser les tendances d'utilisation.
@@ -16,4 +16,4 @@ Conformément aux lois en vigueur, vous avez le droit de demander l'accès, la r
 
 Pour toute question ou préoccupation concernant cette politique, veuillez contacter l'équipe de support sur le serveur de support : https://discord.gg/Cxv2Q3WnxV.
 
-Dernière mise à jour : 08/08/2023 23h24
+Dernière mise à jour : 10/08/2023 16h24
