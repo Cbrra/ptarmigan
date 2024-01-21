@@ -1,2 +1,2 @@
 # ptarmigan
-Coming soon
+https://discord.gg/Cxv2Q3WnxV
